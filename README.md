@@ -2,20 +2,22 @@
 
 > "If you're looking for free coding exercises to prepare for your next job interview, we've got you covered. This section contains dozens of coding challenges that test your knowledge of algorithms, data structures, and mathematics. It also has a number of take-home projects you can use to strengthen your skills, or add to your portfolio."
 
+This is a work in progress. Exercises that I've completed are hyperlinked.
+
 ## Algorithms
 
 > "These free programming exercises will teach you about some common algorithms that you will likely encounter in real life. They are a great opportunity to improve your logic and programming skills. These algorithms are frequently used in job interviews to test a candidate's skills. We'll give you clear and concise explanations of how these different algorithms work so you can implement a solution for each one."
 
-- symmetric difference
-- inventory update
-- no repeats
-- pairwise
-- bubble sort
-- selection sort
-- insertion sort
-- quick sort
-- merge sort
-- binary search
+- [symmetric difference](./tree/main/algorithms/symm_diff)
+- [inventory update](./tree/main/algorithms/inventory_update)
+- [no repeats](./tree/main/algorithms/no_repeats)
+- [pairwise](./tree/main/algorithms/pairwise)
+- [bubble sort](./tree/main/algorithms/bubble_sort)
+- [selection sort](./tree/main/algorithms/selection_sort)
+- [insertion sort](./tree/main/algorithms/insertion_sort)
+- [quick sort](./tree/main/algorithms/quicksort)
+- [merge sort](./tree/main/algorithms/merge_sort)
+- [binary search](./tree/main/algorithms/binary_search)
 
 ## Data Structures
 
