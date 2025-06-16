@@ -8,16 +8,16 @@ This is a work in progress. Exercises that I've completed are hyperlinked.
 
 > "These free programming exercises will teach you about some common algorithms that you will likely encounter in real life. They are a great opportunity to improve your logic and programming skills. These algorithms are frequently used in job interviews to test a candidate's skills. We'll give you clear and concise explanations of how these different algorithms work so you can implement a solution for each one."
 
-- [symmetric difference](./algorithms/symm_diff)
-- [inventory update](./algorithms/inventory_update)
-- [no repeats](./algorithms/no_repeats)
-- [pairwise](./algorithms/pairwise)
-- [bubble sort](./algorithms/bubble_sort)
-- [selection sort](./algorithms/selection_sort)
-- [insertion sort](./algorithms/insertion_sort)
-- [quick sort](./algorithms/quicksort)
-- [merge sort](./algorithms/merge_sort)
-- [binary search](./algorithms/binary_search)
+- [symmetric difference](https://github.com/SuperJoshua/fcc-interview-prep/tree/main/algorithms/symm_diff)
+- [inventory update](https://github.com/SuperJoshua/fcc-interview-prep/tree/main/algorithms/inventory_update)
+- [no repeats](https://github.com/SuperJoshua/fcc-interview-prep/tree/main/algorithms/no_repeats)
+- [pairwise](https://github.com/SuperJoshua/fcc-interview-prep/tree/main/algorithms/pairwise)
+- [bubble sort](https://github.com/SuperJoshua/fcc-interview-prep/tree/main/algorithms/bubble_sort)
+- [selection sort](https://github.com/SuperJoshua/fcc-interview-prep/tree/main/algorithms/selection_sort)
+- [insertion sort](https://github.com/SuperJoshua/fcc-interview-prep/tree/main/algorithms/insertion_sort)
+- [quick sort](https://github.com/SuperJoshua/fcc-interview-prep/tree/main/algorithms/quicksort)
+- [merge sort](https://github.com/SuperJoshua/fcc-interview-prep/tree/main/algorithms/merge_sort)
+- [binary search](https://github.com/SuperJoshua/fcc-interview-prep/tree/main/algorithms/binary_search)
 
 ## Data Structures
 
